@@ -1,0 +1,21 @@
+body{
+    background: #1d2630;
+}
+
+*{
+    color: #fff;
+}
+
+.text-red {
+    color: red;
+}
+
+table {
+    margin-top: 20px;
+}
+
+table, tr, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
