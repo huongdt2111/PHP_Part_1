@@ -16,8 +16,8 @@
 </head>
 
 <body>
-
-    <div class="container">
+<?php>
+    echo '<div class="container">
         <h2 class="mt-5 mb-5" style="text-align: center;">Product</h2>
         <form action="" id="form-data">
             <div class="mb-5">
@@ -77,8 +77,8 @@
                 </table>
             </div>
         </div>
-
-    </div>
+    </div>';
+?>
 </body>
 
 </html>
